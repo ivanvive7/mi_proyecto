@@ -6,5 +6,6 @@ Tecnologías utilizadas
 · 👩‍💻 Java 21
 · 🛠️ Herramientas: VS Code / Eclipse IDE 
 Instalación 
+
 📥 Clonar el repositorio
 git clone https://github.com/ivanvive7/mi_proyecto.git
