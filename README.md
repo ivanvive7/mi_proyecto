@@ -7,4 +7,4 @@ Tecnologías utilizadas
 · 🛠️ Herramientas: VS Code / Eclipse IDE 
 Instalación 
 📥 Clonar el repositorio
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/ivanvive7/mi_proyecto.git
